@@ -1,6 +1,11 @@
 # shell-data-processing
-## Basic commands
+## Basic Bash commands
 - mkdir creates a new directory
+- ls List directory contents
+- echo — Prints text to the terminal window
+- touch — Creates a file
+- man — Print manual or get help for a command
+- locate — Locate a specific file or directory
 - rmdir deletes the specified empty directory
 - rm deletes a specified directory containing files
 - pwd shows the current working directory
