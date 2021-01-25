@@ -11,7 +11,7 @@
 - pwd shows the current working directory
 - cat displays the contents of file
 ## Command used to fetch data from url:
-curl "http://shakespeare.mit.edu/romeo_juliet/full.html" -O "data.txt"
+curl "https://knowindia.gov.in/my-india-my-pride/interesting-facts-about-india.php"
 ## Command used to count unique words in a sequential order:
 tr ' ' '\12' < returnedfile | sort | uniq -c | sort -nr > result.txt
 
